@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  # change repo to your git repository url
+  repo: deback/one-click-hugo-cms
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
